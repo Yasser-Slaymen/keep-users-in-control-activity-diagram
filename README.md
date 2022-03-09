@@ -13,9 +13,9 @@ Als coding the curbs wil ik smart zones kunnen aanpassen en toevoegen aan databa
 
 ## Uitleg pseudo-code 
 * Zodra de pagina word geladen word er eerst gekeken of de browser javascript heeft aan staan
-* zo als goedgegaan dan  Tijdens het laden word de api gefetched.
+* zo als goed gegaan dan  Tijdens het laden word de api gefetched.
 *  Er zijn mis gegaan dan komt Error.
-*  Bij formolier pagina als de gebruikers klaar zijn met formolier invullen dan krijge ze notifiction that they don
+*  Bij formulier pagina als de gebruikers klaar zijn met formolier invullen dan krijge ze notifiction that they don
 
 ## Licentie
 
